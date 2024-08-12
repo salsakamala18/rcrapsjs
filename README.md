@@ -29,17 +29,24 @@ JavaScript
 document.createElement('script');
 ```
 
-### Variable doc
+### Variables doc
 JavaScript
 ```javascript
 document;
 ```
 
-### Variable el
+### Variables el
 document.createElement();
 ```javascript
 
 ```
+
+### Variables req
+JavaScript
+```javascript
+new XMLHttpRequest();
+```
+
 
 document.createTextNode();
 ```javascript
