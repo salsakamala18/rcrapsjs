@@ -16,15 +16,29 @@ document.getElementsByTag('a');
 ```javascript
 document.getElementById('').getElementsByTag('a');
 ```
-## Variables
-document;
+
+### Variables a
+JavaScript
 ```javascript
-doc
+document.createElement('a');
 ```
 
+### Variables s
+JavaScript
+```javascript
+document.createElement('script');
+```
+
+### Variable doc
+JavaScript
+```javascript
+document;
+```
+
+### Variable el
 document.createElement();
 ```javascript
-el
+
 ```
 
 document.createTextNode();
