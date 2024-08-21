@@ -47,10 +47,9 @@ JavaScript
 new XMLHttpRequest();
 ```
 
-
-document.createTextNode();
+### Variables textNode
+JavaScript
 ```javascript
-txt
-textNode
+document.createTextNode();
 ```
 
