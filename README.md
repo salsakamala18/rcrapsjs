@@ -49,7 +49,7 @@ new XMLHttpRequest();
 
 ### Variables textNode
 JavaScript
-[1](https://developer.mozilla.org/en-US/docs/Web/API/Document/createTextNode) Creates a new Text node. This method can be used to escape HTML characters.
+[1](https://developer.mozilla.org/en-US/docs/Web/API/Document/createTextNode) [2](https://nurmalitasari04.blogspot.com/2015/09/penggunaan-createelement-createtextnode.html?m=1) Creates a new Text node. This method can be used to escape HTML characters.
 
 ```javascript
 document.createTextNode();
